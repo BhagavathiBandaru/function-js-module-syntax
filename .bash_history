@@ -31,3 +31,34 @@ ccbp solution NJSCPFZEYF
 ccbp submit NJSCPANCPR
 ccbp solution NJSCPFZEYF
 cd
+ccbp start NJSCPGHTSD
+ccbp submit NJSCPGHTSD
+git config --global user.email "bhagavathibandaru0@gmail.com"
+ccbp authentication
+clear
+git config --global user.name "Bhagavathi"
+git init
+cd
+git config --global user.name "Bhagavathi"
+git config --global user.email "bhagavathibandaru0@gmail.com"
+git init
+git remote add origin https://github.com/BhagavathiBandaru/function-js-module-syntax.git
+git add -A
+git commit -m "This is a Function"
+git branch -M main
+git push -u origin main
+ccbp authenticate
+clear
+git config --global user.email "bhagavathibandaru0@gmail.com"
+git config --global user.name "Bhagavathi"
+clear
+sudo apt install git
+git --version
+git config --global user.email "bhagavathibandaru0@gmail.com"
+git config --global user.name "Bhagavathi"
+git init
+git remote add origin https://github.com/BhagavathiBandaru/function-js-module-syntax.git
+git add -A
+git commit -m "Solution3"
+git branch -M main 
+git push -u origin main
