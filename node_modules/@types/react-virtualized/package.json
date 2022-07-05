@@ -1,0 +1,67 @@
+{
+    "name": "@types/react-virtualized",
+    "version": "9.21.11",
+    "description": "TypeScript definitions for react-virtualized",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Kalle Ott",
+            "url": "https://github.com/kaoDev",
+            "githubUsername": "kaoDev"
+        },
+        {
+            "name": "John Gunther",
+            "url": "https://github.com/guntherjh",
+            "githubUsername": "guntherjh"
+        },
+        {
+            "name": "Konstantin Nesterov",
+            "url": "https://github.com/wasd171",
+            "githubUsername": "wasd171"
+        },
+        {
+            "name": "Szőke Szabolcs",
+            "url": "https://github.com/szabolcsx",
+            "githubUsername": "szabolcsx"
+        },
+        {
+            "name": "Steve Zhang",
+            "url": "https://github.com/Stevearzh",
+            "githubUsername": "Stevearzh"
+        },
+        {
+            "name": "Maciej Goszczycki",
+            "url": "https://github.com/mgoszcz2",
+            "githubUsername": "mgoszcz2"
+        },
+        {
+            "name": "Brandon Hall",
+            "url": "https://github.com/brandonhall",
+            "githubUsername": "brandonhall"
+        },
+        {
+            "name": "Sebastian Busch",
+            "url": "https://github.com/sbusch",
+            "githubUsername": "sbusch"
+        },
+        {
+            "name": "Adam Zmenak",
+            "url": "https://github.com/azmenak",
+            "githubUsername": "azmenak"
+        }
+    ],
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/react-virtualized"
+    },
+    "scripts": {},
+    "dependencies": {
+        "@types/prop-types": "*",
+        "@types/react": "*"
+    },
+    "typesPublisherContentHash": "702d24d83d9206aea3ecd1c9dd5a63668cc20d761c20499ae979cae2f96e93f7",
+    "typeScriptVersion": "3.4"
+}

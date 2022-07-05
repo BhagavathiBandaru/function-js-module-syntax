@@ -1,0 +1,5 @@
+:root {
+    --theia-brand-logo-size: 30%;
+    --theia-brand-logo: url('../../../src/browser/icons/ccbp-4.0-dark-logo.svg');
+    --theia-menu-logo: url('../../../src/browser/icons/ccbp-logo.svg');
+}

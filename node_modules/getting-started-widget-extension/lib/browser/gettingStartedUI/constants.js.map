@@ -1,0 +1,1 @@
+{"version":3,"file":"constants.js","sourceRoot":"","sources":["../../../src/browser/gettingStartedUI/constants.ts"],"names":[],"mappings":";;;AAAa,QAAA,cAAc,GAAG;IAC1B,IAAI,EAAE,MAAM;IACZ,QAAQ,EAAE,UAAU;CACvB,CAAA;AAEY,QAAA,YAAY,GAAG,CAAC,EAAE,KAAK,EAAE,MAAM,EAAE,KAAK,EAAE,MAAM,EAAE,EAAE,EAAE,KAAK,EAAE,UAAU,EAAE,KAAK,EAAE,UAAU,EAAE,CAAC,CAAA;AAE3F,QAAA,IAAI,GAAG,MAAM,CAAA"}

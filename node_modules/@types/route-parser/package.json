@@ -1,0 +1,29 @@
+{
+    "name": "@types/route-parser",
+    "version": "0.1.3",
+    "description": "TypeScript definitions for route-parser",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Ian Ker-Seymer",
+            "url": "https://github.com/ianks",
+            "githubUsername": "ianks"
+        },
+        {
+            "name": "Bob Buehler",
+            "url": "https://github.com/bobbuehler",
+            "githubUsername": "bobbuehler"
+        }
+    ],
+    "main": "",
+    "types": "index",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/route-parser"
+    },
+    "scripts": {},
+    "dependencies": {},
+    "typesPublisherContentHash": "d5d5052abc047ccfaed1bb6a0bf993117b85fcfef6682e99211361d201d5253a",
+    "typeScriptVersion": "2.3"
+}

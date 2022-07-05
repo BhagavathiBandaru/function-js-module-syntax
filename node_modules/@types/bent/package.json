@@ -1,0 +1,26 @@
+{
+    "name": "@types/bent",
+    "version": "7.3.2",
+    "description": "TypeScript definitions for bent",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Ovyerus",
+            "url": "https://github.com/Ovyerus",
+            "githubUsername": "Ovyerus"
+        }
+    ],
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/bent"
+    },
+    "scripts": {},
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "typesPublisherContentHash": "fa0c63663f2a91805a5504bee5a1278abef21d08d86d1fd26e99ec0c72ae4b1a",
+    "typeScriptVersion": "3.2"
+}

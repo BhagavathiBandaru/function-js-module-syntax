@@ -1,0 +1,27 @@
+{
+  "name": "vscode-theme-seti",
+  "private": true,
+  "version": "1.39.1-prel",
+  "displayName": "%displayName%",
+  "description": "%description%",
+  "publisher": "vscode",
+  "license": "MIT",
+  "icon": "icons/seti-circular-128x128.png",
+  "scripts": {},
+  "engines": {
+    "vscode": "*"
+  },
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "vs-seti",
+        "label": "Seti (Visual Studio Code)",
+        "path": "./icons/vs-seti-icon-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theia-ide/vscode-builtin-extensions"
+  }
+}

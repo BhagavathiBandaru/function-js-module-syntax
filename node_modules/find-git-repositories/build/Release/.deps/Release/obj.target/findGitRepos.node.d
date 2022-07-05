@@ -1,0 +1,1 @@
+cmd_Release/obj.target/findGitRepos.node := g++ -shared -pthread -rdynamic -m64  -Wl,-soname=findGitRepos.node -o Release/obj.target/findGitRepos.node -Wl,--start-group Release/obj.target/findGitRepos/src/FindGitRepos.o Release/obj.target/findGitRepos/src/Queue.o Release/obj.target/openpa/openpa.a -Wl,--end-group 
