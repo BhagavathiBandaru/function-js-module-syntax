@@ -62,3 +62,17 @@ git add -A
 git commit -m "Solution3"
 git branch -M main 
 git push -u origin main
+ccbp start NJSCPIJTND
+ccbp submit NJSCPIJTND
+cd
+git config --global user.email "bhagavathibandaru0@gmail.com"
+git config --global user.name "Bhagavathi"
+git config --global color.ui auto
+git config -l
+git init
+git remote add origin https://github.com/BhagavathiBandaru/code4.git
+git add -A
+git commit -m "Square"
+git branch -M main
+git push -u origin main
+ccbp solution NJSCPLTMCE
